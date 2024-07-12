@@ -54,6 +54,7 @@ To change the transition interval, modify the setInterval function in `Index.js.
 ## Author 
 
 Lemein Annette
+
 lemeinannette(github)
 
  ## License
